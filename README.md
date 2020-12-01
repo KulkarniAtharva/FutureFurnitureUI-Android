@@ -9,7 +9,7 @@ A Future Furniture App UI developed in Android JAVA
 <table>
   <tr>
     <th>Home</th>
-    <th>favourite</th>
+    <th>Favourite</th>
     <th>Product</th>
   </tr>
   
