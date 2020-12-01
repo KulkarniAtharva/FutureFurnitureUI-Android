@@ -8,9 +8,9 @@ A Future Furniture App UI developed in Android JAVA
   
 <table>
   <tr>
-    <th>Category click</th>
-    <th>Shop Showing</th>
     <th>Home</th>
+    <th>favourite</th>
+    <th>Product</th>
   </tr>
   
    <tr>
@@ -20,8 +20,8 @@ A Future Furniture App UI developed in Android JAVA
   </tr>
   
   <tr>
-    <th>Product</th>
-    <th>Search category</th>
+    <th>Login</th>
+    <th>Account</th>
 
   </tr>
   
